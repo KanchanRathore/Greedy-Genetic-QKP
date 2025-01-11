@@ -1,2 +1,2 @@
 # Greedy-Genetic-QKP
-Implementation of Greedy heuristic and Evolutionary Algorithm for Quadratic Knapsack Problem.
+Implementation of Greedy heuristic and Evolutionary Algorithms for Quadratic Knapsack Problem.
